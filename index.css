@@ -26,13 +26,13 @@ footer{
     height:2rem;
     display: flex;
     align-items: center;
-    /* flex-direction: column; */
+    
     justify-content: center;
     font-weight: bolder;
     color:darkblue;
 }
 
-.img-pro{
+ /* .img-pro{
     height:120px;
     width:120px;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@ footer{
    flex-wrap: wrap;
    height:700px;
    width:800px;
-   /* background-color: darkcyan; */
+   
    align-items: center;
    
    display: grid;
@@ -68,7 +68,7 @@ footer{
 
 a{
     text-decoration: none;
-}
+}   */
 
 @media screen and (min-width:701px) {
   
