@@ -1426,7 +1426,7 @@ table,th,td{
    flex-direction: row;
    flex-wrap: wrap;
    height:1200px;
-   width:680px;
+   width:380px;
    /* background-color: darkcyan; */
    align-items: center;
    justify-content: center;
@@ -1443,7 +1443,7 @@ table,th,td{
     justify-content: center;
     height:150px;
     width:130px;
-    /* text-align: center; */
+     text-align: center;
     color:darkblue;
    transform:all linear 1s;
    /* border:2px solid grey; */
