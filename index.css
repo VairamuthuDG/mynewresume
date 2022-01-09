@@ -46,43 +46,11 @@ footer{
     color:darkblue;
 }
 
- /* .img-pro{
-    height:120px;
-    width:120px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    overflow: hidden;
-}
+ ul li{
+     list-style-type:disc;
+ }
 
-.projects{
-   display:flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   height:700px;
-   width:800px;
-   
-   align-items: center;
-   
-   display: grid;
-   grid-template-columns: auto auto auto auto;
-   row-gap: 1rem;
-    
-}
-.mine{
-    height:150px;
-    width:130px;
-    text-align: center;
-    color:darkblue;
-   transform:all linear 1s;
-}
-
-.mine:hover{
-    transform: scale(1.4, 1.4);
-}
-
-a{
-    text-decoration: none;
-}   */
+ 
 
 @media screen and (min-width:701px) {
   
