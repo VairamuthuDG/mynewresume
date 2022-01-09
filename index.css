@@ -76,6 +76,7 @@ a{
         display:flex; 
     }
 
+   
 .nav-toggle{
     visibility:hidden;
 }
@@ -525,6 +526,7 @@ a{
 }
 
 .nav-box{
+    position:relative;
     display: flex;
     flex-direction: column;
     transform: translateX(-110%);
@@ -986,7 +988,7 @@ a{
     nav{
         display:flex; 
         flex-direction: column;
-
+        
     }
 
 .nav-toggle{
@@ -1001,6 +1003,7 @@ a{
     transform: translateX(-110%);
     z-index: 10;
     transition:all linear 1s;
+    
 }
 
 

@@ -3,10 +3,13 @@ window.addEventListener('DOMContentLoaded',function(){
     const navToggle = document.querySelector('.nav-toggle');
     
     const navBox = document.querySelector('.nav-box');
+
     
     navToggle.addEventListener('click', function(){
         navBox.classList.toggle('nav-center');
     })
+
+    
     
     const btnEl  = document.querySelector('.btn');
     const showEdu = document.querySelector('.show-edu');
