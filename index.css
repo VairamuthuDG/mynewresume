@@ -46,7 +46,7 @@ footer{
     color:darkblue;
 }
 
- ul li{
+ .ans-box li{
      list-style-type:disc;
  }
 
